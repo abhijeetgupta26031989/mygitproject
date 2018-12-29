@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Suite Framework" duration-ms="64518" started-at="2018-12-27T14:43:12Z" finished-at="2018-12-27T14:44:17Z">
+    <groups>
+    </groups>
+    <test name="Facebook" duration-ms="64518" started-at="2018-12-27T14:43:12Z" finished-at="2018-12-27T14:44:17Z">
+      <class name="tests.NewTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:tests.NewTest@1565ec2]" name="beforeClass" is-config="true" duration-ms="20171" started-at="2018-12-27T20:13:12Z" finished-at="2018-12-27T20:13:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="main()[pri:0, instance:tests.NewTest@1565ec2]" name="main" duration-ms="42502" started-at="2018-12-27T20:13:32Z" finished-at="2018-12-27T20:14:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:tests.NewTest@1565ec2]" name="afterClass" is-config="true" duration-ms="1797" started-at="2018-12-27T20:14:15Z" finished-at="2018-12-27T20:14:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.NewTest -->
+    </test> <!-- Facebook -->
+  </suite> <!-- Test Suite Framework -->
+</testng-results>
